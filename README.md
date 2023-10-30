@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Alvarez
-- 👀 I’m interested in software developlement, and in particular web development, with tools such as APIs, Javascript, HTML/CSS
-- 🌱 I’m currently learning Spring, Flask
+- 👀 I’m interested in software developlement, and in particular application development for enterprise use
+- 🌱 I’m currently learning Spring and React
 - 📫 How to reach me: miguel.alvarez9724@gmail.com
 
 <!---
